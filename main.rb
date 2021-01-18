@@ -6,5 +6,7 @@ length = string.size
 length = length.to_i
 # Printing findings for the user using interpolation
 puts "The phrase I've chosen is [[#{string}]] and it is #{length} characters long."
+# Convert to Uppercase
 string = string.upcase!
+# Split the string
 puts string.split
