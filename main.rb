@@ -1,4 +1,4 @@
-# creating string variable
+# Creating string variable
 string = "Gemma Loves Pizza"
 # Checking the size
 length = string.size
